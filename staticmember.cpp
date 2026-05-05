@@ -40,3 +40,6 @@ int main() {
     Mahasiswa mhs2("Fawwaz Sratus");
     Mahasiswa mhs3("Andi Kurniawan");
     Mahasiswa mhs4("Bagas Satya Widhi");
+
+    //memanggil prosedur printAll()
+    mhs1.printAll();
