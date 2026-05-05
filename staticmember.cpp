@@ -44,3 +44,4 @@ int main() {
     //memanggil prosedur printAll()
     mhs1.printAll();
     mhs2.printAll();
+    mhs3.printAll();
